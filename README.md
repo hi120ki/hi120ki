@@ -49,8 +49,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub)
-![BitBucket](https://img.shields.io/badge/-BitBucket-black?logo=BitBucket)
-![GitLab](https://img.shields.io/badge/-GitLab-black?logo=GitLab)
+![CircleCI](https://img.shields.io/badge/-CircleCI-black?logo=CircleCI)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes)
