@@ -17,13 +17,6 @@
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript)
-![Sass](https://img.shields.io/badge/-Sass-black?logo=Sass)
-![Stylus](https://img.shields.io/badge/-Stylus-black?logo=Stylus)
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?logo=Nuxt.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-black?logo=Vuetify)
@@ -42,18 +35,15 @@
 ![Alpine%20Linux](https://img.shields.io/badge/-Alpine%20Linux-black?logo=Alpine%20Linux)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?logo=Arch%20Linux)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-black?logo=Manjaro)
-![Debian](https://img.shields.io/badge/-Debian-black?logo=Debian)
 
 ## Middleware
 
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-black?logo=Apache)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-black?logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-black?logo=SQLite)
 
 ## Tool
 
@@ -64,14 +54,8 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes)
-
 ![Amazon%20AWS](https://img.shields.io/badge/Amazon%20AWS-black?logo=Amazon%20AWS)
-
 ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=Ansible)
-![Vagrant](https://img.shields.io/badge/-Vagrant-black?logo=Vagrant)
-
-![Google%20Analytics](https://img.shields.io/badge/-Google%20Analytics-black?logo=Google%20Analytics)
-![Google%20Search%20Console](https://img.shields.io/badge/-Google%20Search%20Console-black?logo=Google%20Search%20Console)
 
 ![Prometheus](https://img.shields.io/badge/-Prometheus-black?logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-black?logo=Grafana)
