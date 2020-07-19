@@ -46,9 +46,6 @@
 
 ## Middleware
 
-![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes)
-
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=Nginx)
 ![Apache](https://img.shields.io/badge/-Apache-black?logo=Apache)
 
@@ -58,9 +55,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?logo=SQLite)
 
-![Ansible](https://img.shields.io/badge/-Ansible-black?logo=Ansible)
-![Vagrant](https://img.shields.io/badge/-Vagrant-black?logo=Vagrant)
-
 ## Tool
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=Git)
@@ -68,7 +62,13 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-black?logo=BitBucket)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?logo=GitLab)
 
+![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes)
+
 ![Amazon%20AWS](https://img.shields.io/badge/Amazon%20AWS-black?logo=Amazon%20AWS)
+
+![Ansible](https://img.shields.io/badge/-Ansible-black?logo=Ansible)
+![Vagrant](https://img.shields.io/badge/-Vagrant-black?logo=Vagrant)
 
 ![Google%20Analytics](https://img.shields.io/badge/-Google%20Analytics-black?logo=Google%20Analytics)
 ![Google%20Search%20Console](https://img.shields.io/badge/-Google%20Search%20Console-black?logo=Google%20Search%20Console)
