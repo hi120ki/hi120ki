@@ -1,4 +1,13 @@
-![hi120ki's github stats](https://github-readme-stats.vercel.app/api?username=hi120ki&show_icons=true&title_color=fff&icon_color=9f9f9f&text_color=9f9f9f&bg_color=151515)
+## Hi 👋, I'm Hi120ki
+
+- 🌱 I’m currently learning Go & Kubernetes.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi120ki&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hi120ki&show_icons=true&theme=dark" />
+</a>
 
 ## Language
 
@@ -15,18 +24,10 @@
 
 ## Web Application
 
-### Frontend
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?logo=Nuxt.js)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-black?logo=Vuetify)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap)
-
-### Backend
-
-![Python](https://img.shields.io/badge/-Python-black?logo=Python)
-![Go](https://img.shields.io/badge/-Go-black?logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript)
 
 ## OS
 
@@ -35,15 +36,6 @@
 ![Alpine%20Linux](https://img.shields.io/badge/-Alpine%20Linux-black?logo=Alpine%20Linux)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-black?logo=Arch%20Linux)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-black?logo=Manjaro)
-
-## Middleware
-
-![Nginx](https://img.shields.io/badge/-Nginx-black?logo=Nginx)
-![Apache](https://img.shields.io/badge/-Apache-black?logo=Apache)
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-black?logo=Redis)
 
 ## Tool
 
@@ -55,8 +47,5 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=Kubernetes)
 ![Amazon%20AWS](https://img.shields.io/badge/Amazon%20AWS-black?logo=Amazon%20AWS)
 ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=Ansible)
-
 ![Prometheus](https://img.shields.io/badge/-Prometheus-black?logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-black?logo=Grafana)
-![Datadog](https://img.shields.io/badge/-Datadog-black?logo=Datadog)
-![New%20Relic](https://img.shields.io/badge/-New%20Relic-black?logo=New%20Relic)
