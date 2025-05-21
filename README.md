@@ -8,10 +8,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi120ki&hide=css,html&theme=dark&layout=compact" />
 </a>
-
-## Language
-
-![Go](https://img.shields.io/badge/-Go-black?logo=Go)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=TypeScript)
-![Python](https://img.shields.io/badge/-Python-black?logo=Python)
-
